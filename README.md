@@ -19,10 +19,10 @@
 - **Other:** Git, Postman, Twilio, Ngrok
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats-git-master-org.vercel.app/api/top-langs/?username=Minhen96&layout=donut&langs_count=10&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Minhen96&layout=donut&langs_count=10&theme=radical&count_private=true)
 
 ## 📈 GitHub Stats
-![MinHen's GitHub stats](https://github-readme-stats-git-master-org.vercel.app/api?username=Minhen96&show_icons=true&theme=radical)
+![MinHen's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api/?username=Minhen96&show_icons=true&theme=radical)
 
 ## 🧩 Contribution Snake
 ![snake gif](https://github.com/Minhen96/Minhen96/blob/output/dist/snake.svg)
